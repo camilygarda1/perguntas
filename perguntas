@@ -1,0 +1,23 @@
+criaCartao(
+    'Matemática',
+    'O que é uma soma?',
+    'A soma é uma operação matemática que consiste em adicionar dois ou mais números'
+)
+
+criaCartao(
+    'Ciência',
+    'O que é a água?',
+    'A água é uma substância líquida essencial para a vida, composta por dois átomos de hidrogênio e um de oxigênio'
+)
+
+criaCartao(
+    'Programação',
+    'O que é uma função?',
+    'Uma função é um bloco de código que executa alguma tarefa'
+)
+
+criaCartao(
+    'Lingua inglesa',
+    'Como se diz oi em Inglês?',
+    'Oi em ingles é HI (RAI)'
+)
