@@ -1,23 +1,59 @@
 criaCartao(
     'Matemática',
-    'O que é uma soma?',
-    'A soma é uma operação matemática que consiste em adicionar dois ou mais números'
+    'O que é uma função exponencial?',
+    'É uma função onde a variável está no expoente, como f(x) = a·b^x, com b > 0 e b ≠ 1.'
 )
 
 criaCartao(
-    'Ciência',
-    'O que é a água?',
-    'A água é uma substância líquida essencial para a vida, composta por dois átomos de hidrogênio e um de oxigênio'
+    'Física',
+    'O que é trabalho na física?',
+    'É a energia transferida por uma força ao mover um corpo. Calculado por: T = F·d·cos(θ).'
+)
+
+criaCartao(
+    'Química',
+    'O que é pH?',
+    'É a medida da acidez ou basicidade de uma solução. Vai de 0 (ácido) a 14 (básico).'
+)
+
+criaCartao(
+    'Biologia',
+    'Qual a função dos ribossomos?',
+    'São responsáveis pela produção de proteínas nas células.'
 )
 
 criaCartao(
     'História',
-    'Quem foi Dom Pedro I?',
-    'Quem foi Dom Pedro I?' n 'Ele foi o imperador do Brasil que declarou a independência'
+    'O que foi a Guerra Fria?',
+    'Foi um conflito ideológico e político entre EUA (capitalismo) e URSS (socialismo), sem confrontos diretos.'
 )
 
 criaCartao(
     'Geografia',
-    'O que é uma montanha?',
-    'Uma elevação grande de terra'
+    'O que são placas tectônicas?',
+    'São grandes blocos da litosfera que se movem e causam terremotos e formação de montanhas.'
+)
+
+criaCartao(
+    'Português',
+    'O que é uma metáfora?',
+    'É uma figura de linguagem que compara dois elementos de forma implícita.'
+)
+
+criaCartao(
+    'Inglês',
+    'Como se diz “obrigado” em inglês?',
+    'Thank you.'
+)
+
+criaCartao(
+    'Filosofia',
+    'Quem foi Sócrates?',
+    'Um dos principais filósofos da Grécia Antiga, conhecido por estimular o pensamento crítico e o autoconhecimento.'
+)
+
+criaCartao(
+    'Sociologia',
+    'O que é desigualdade social?',
+    'É a diferença de acesso a bens, serviços e oportunidades entre diferentes grupos da sociedade.'
 )
