@@ -11,13 +11,13 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'História',
+    'Quem foi Dom Pedro I?',
+    'Quem foi Dom Pedro I?' n 'Ele foi o imperador do Brasil que declarou a independência'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Geografia',
+    'O que é uma montanha?',
+    'Uma elevação grande de terra'
 )
